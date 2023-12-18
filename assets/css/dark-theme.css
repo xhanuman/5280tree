@@ -1,0 +1,23 @@
+/* assets/css/dark-theme.css */
+
+@import 'themes.css';
+
+:root {
+    /* Dark theme colors */
+    --background-color: #1a1a1a;
+    --text-color: #f5f5f5;
+    --link-color: #1a85ff;
+    --header-color: #ffffff;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+}
+
+a {
+    color: var(--link-color);
+}
+
+/* Define other dark theme styles */

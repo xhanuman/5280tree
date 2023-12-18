@@ -1,0 +1,15 @@
+/* assets/css/light-theme.css */
+
+@import 'themes.css';
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+}
+
+a {
+    color: var(--link-color);
+}
+
+/* Define other light theme styles */

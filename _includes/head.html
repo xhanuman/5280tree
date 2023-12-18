@@ -1,0 +1,39 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  {%- include custom-head.html -%}
+
+  <!-- dark/light toggle func -->
+
+<!-- _includes/head.html -->
+
+<link rel="stylesheet" href="{{ "/assets/css/light-theme.css" | relative_url }}" id="light-theme-stylesheet">
+<link rel="stylesheet" href="{{ "/assets/css/dark-theme.css" | relative_url }}" id="dark-theme-stylesheet" disabled>
+
+<script>
+  function applyTheme(theme) {
+    if (theme === 'dark') {
+      document.getElementById('dark-theme-stylesheet').disabled = false;
+      document.getElementById('light-theme-stylesheet').disabled = true;
+    } else {
+      document.getElementById('dark-theme-stylesheet').disabled = true;
+      document.getElementById('light-theme-stylesheet').disabled = false;
+    }
+  }
+
+  // Check for saved user preference, if any
+  const savedTheme = localStorage.getItem('theme') || 'light';
+  applyTheme(savedTheme);
+</script>
+
+
+  
+</head>

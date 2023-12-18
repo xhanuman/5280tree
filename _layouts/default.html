@@ -1,0 +1,12 @@
+<!-- Example in _layouts/default.html -->
+
+<button id="theme-toggle">Toggle Theme</button>
+
+<script>
+  const themeToggle = document.getElementById('theme-toggle');
+  themeToggle.addEventListener('click', function() {
+    const currentTheme = localStorage.getItem('theme') === 'dark' ? 'light' : 'dark';
+    applyTheme(currentTheme);
+    localStorage.setItem('theme', currentTheme);
+  });
+</script>

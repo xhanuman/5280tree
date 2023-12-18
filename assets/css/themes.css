@@ -1,0 +1,13 @@
+/* assets/css/themes.css */
+
+:root {
+    /* Light theme colors */
+    --background-color: #ffffff;
+    --text-color: #333333;
+    --link-color: #0078d7;
+    --header-color: #4a4a4a;
+
+    /* Other shared styles */
+    --font-family: 'Arial', sans-serif;
+    /* Add other shared properties here */
+}
