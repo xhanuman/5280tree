@@ -12,7 +12,9 @@ layout: home
 **About Denver Tree Services: Your Local Tree Care Experts**
 
 Welcome to **Denver Tree Services**, a leading tree trimming service in Denver, dedicated to serving the local community with exceptional care and professionalism. Our mission is to provide top-quality tree care services to Denver residents and businesses at competitive prices.
-
+<p>
+<img src="../assets/images/treetrimming.png">
+<p>
 ## **Our Roots in Denver**
 
 **Denver Tree Services** was founded by John Doe, an arborist with over 20 years of experience. Our beginnings were humble, with a small team passionate about enhancing Denver's green spaces. Today, we have grown into a team of skilled arborists, each an expert in caring for Denver's diverse tree species.
