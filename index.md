@@ -11,13 +11,13 @@ layout: home
 
 **About Denver Tree Services: Your Local Tree Care Experts**
 
-Welcome to **Denver Tree Services**, a leading tree trimming service in Denver, dedicated to serving the local community with exceptional care and professionalism. Our mission is to provide top-quality tree care services to Denver residents and businesses at competitive prices.
+Welcome to **Denver Tree Services**, a professional tree trimming service in Denver, dedicated to serving the local community with exceptional care and professionalism. Our mission is to provide top-quality tree care services to Denver residents and businesses at competitive prices.
 <p>
 <img src="../assets/images/treetrimming_header.png">
 </p>
 ## **Our Roots in Denver**
 
-**Denver Tree Services** was founded by John Doe, an arborist with over 20 years of experience. Our beginnings were humble, with a small team passionate about enhancing Denver's green spaces. Today, we have grown into a team of skilled arborists, each an expert in caring for Denver's diverse tree species.
+**5280 Tree Seriveces** beginnings were humble, a small team passionate about enhancing Denver's green spaces. We have worked to expand our services as many of you already know and trust us from maintaining your irrigation systems.
 
 ## **Our Team: Skilled, Certified, and Community-Focused**
 
@@ -41,7 +41,7 @@ Denver Tree Services is the choice for many due to:
 - **Customer-Centric Approach**: Prioritizing client needs and satisfaction.
 - **Transparent Pricing**: Honest and clear pricing structures.
 
-We treat every tree and property with respect and dedication, understanding their importance to your home or business. Join the many who trust Denver Tree Services for their tree care needs.
+We treat every tree and property with respect and dedication, understanding their importance to your home or business. Join the many who trust 5280 Tree Services in Denver for their tree care needs.
 
 ---
 
